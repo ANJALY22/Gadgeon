@@ -1,0 +1,66 @@
+body{
+    padding: 0px;
+    margin:0px;
+    
+}
+header{
+    height: 200px;
+    width:100%;
+}
+.a{
+    padding: 0px;
+    margin: 0px;
+    /* height:100%;
+    width: 100%; */
+}
+.b{
+    float: left;
+    width: 33.3%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+.c{
+    float: left;
+    width: 33.3%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+.d{
+    float: right;
+    width: 33.3%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+/* nav{
+    float:left;
+    font-size:larger;
+     */
+
+.f{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height:100%;
+    width: 30%;
+    float: left;
+
+}
+ .g{
+    float: left;
+ } 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+
+}
+nav{
+    padding:0px; float: left; font-size:20px;
+    margin-top: 50px;
+}
+
+
+li{
+    float: left;
+    margin-left: 26px;
+}
